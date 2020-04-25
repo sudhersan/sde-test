@@ -1,10 +1,10 @@
-## Command Line instructions
+# Command Line instructions
 
 docker run  sde-test-image input_file.json output_file.json
 
 Command expects two arguments for input and output file. Else command fails
 
-###Design
+##Design
 
 * Created seperate list for Corporate and government bonds
 * Looped over  Corporate bond List(Outer loop) and govermennt bond(Inner Loop) to calculate yield and spread
