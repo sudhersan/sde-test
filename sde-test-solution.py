@@ -16,7 +16,7 @@ def get_output(data):
     g_t = []
 
     '''
-    1.Does not append to list if atleast one of them is None.
+    1.Does not append to list if atleast one of attributes is None.
     2.Create separate list for corporate and government bond.
     '''
     for i in ro:
