@@ -24,9 +24,9 @@
     {
       "id": "g2",
       "type": "government",
-      "tenor": "9.4 years",
+      "tenor": "12.0 years",
       "yield": "4.80%",
-      "amount_outstanding": 17500000
+      "amount_outstanding": 1750000
     }
   ]
 }
